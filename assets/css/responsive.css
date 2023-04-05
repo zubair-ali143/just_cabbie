@@ -1,0 +1,54 @@
+@media only screen and (max-width: 1600px){
+    .service-card-col-1{
+        border: unset;
+    }
+}
+
+@media only screen and (max-width: 1440px){
+}
+
+@media only screen and (max-width: 1366px){
+}
+
+@media only screen and (max-width: 1200px){
+    .service-card-col-1{
+        border: unset;
+    }
+    .slick-next{
+        right: 48% !important;
+    }
+}
+
+@media only screen and (max-width: 991px){
+    .img-bg-color-box{
+        margin-top: 30px;
+    }
+    .service-card-col{
+     border-right: 1.5px dotted #767676;
+    }
+    .rental-fleets-card{
+        height: 100%;
+    }
+}
+
+@media only screen and (max-width: 768px){
+    .slick-next{
+        right: 46% !important;
+    }
+   
+}
+
+@media only screen and (max-width: 576px){
+    .service-card-col{
+        border-right: unset;
+       } 
+       .slick-next{
+        right: 40% !important;
+    }
+}
+
+@media only screen and (max-width: 480px){
+    .slick-next{
+        right: 38% !important;
+    }
+}
